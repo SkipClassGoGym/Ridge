@@ -1,4 +1,4 @@
-# Ridge — House Price Prediction
+# Ridge - House Price Prediction
 
 Dự đoán giá nhà (dataset Kaggle *House Prices: Advanced Regression Techniques*) bằng **Ridge Regression**, **FastAPI** + **Gradio**, đóng gói bằng **Docker**.
 
