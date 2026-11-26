@@ -1,0 +1,6 @@
+src/scratch.py
+**/__pycache__
+**/.gradio
+data/
+models/
+Project_DS/
